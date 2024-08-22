@@ -1,0 +1,442 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\postappservice\\rabbitmqlistenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|solutionrelative:postappservice\\rabbitmqlistenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA03662E-691C-4989-A22A-9F56FCF5F16A}|UserAppService\\UserService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\userappservice\\integrationeventsenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA03662E-691C-4989-A22A-9F56FCF5F16A}|UserAppService\\UserService.csproj|solutionrelative:userappservice\\integrationeventsenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\postappservice\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|solutionrelative:postappservice\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\postappservice\\data\\postappservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|solutionrelative:postappservice\\data\\postappservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\postappservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|solutionrelative:postappservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\postappservice\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|solutionrelative:postappservice\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\postappservice\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|solutionrelative:postappservice\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\postappservice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|solutionrelative:postappservice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\postappservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|solutionrelative:postappservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\postappservice\\postservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|solutionrelative:postappservice\\postservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA03662E-691C-4989-A22A-9F56FCF5F16A}|UserAppService\\UserService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\userappservice\\userservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FA03662E-691C-4989-A22A-9F56FCF5F16A}|UserAppService\\UserService.csproj|solutionrelative:userappservice\\userservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\postappservice\\postservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|solutionrelative:postappservice\\postservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA03662E-691C-4989-A22A-9F56FCF5F16A}|UserAppService\\UserService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\userappservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA03662E-691C-4989-A22A-9F56FCF5F16A}|UserAppService\\UserService.csproj|solutionrelative:userappservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA03662E-691C-4989-A22A-9F56FCF5F16A}|UserAppService\\UserService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\userappservice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA03662E-691C-4989-A22A-9F56FCF5F16A}|UserAppService\\UserService.csproj|solutionrelative:userappservice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA03662E-691C-4989-A22A-9F56FCF5F16A}|UserAppService\\UserService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\userappservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA03662E-691C-4989-A22A-9F56FCF5F16A}|UserAppService\\UserService.csproj|solutionrelative:userappservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA03662E-691C-4989-A22A-9F56FCF5F16A}|UserAppService\\UserService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\userappservice\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA03662E-691C-4989-A22A-9F56FCF5F16A}|UserAppService\\UserService.csproj|solutionrelative:userappservice\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA03662E-691C-4989-A22A-9F56FCF5F16A}|UserAppService\\UserService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\userappservice\\entities\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA03662E-691C-4989-A22A-9F56FCF5F16A}|UserAppService\\UserService.csproj|solutionrelative:userappservice\\entities\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\postappservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|solutionrelative:postappservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA03662E-691C-4989-A22A-9F56FCF5F16A}|UserAppService\\UserService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\userappservice\\data\\userservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA03662E-691C-4989-A22A-9F56FCF5F16A}|UserAppService\\UserService.csproj|solutionrelative:userappservice\\data\\userservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA03662E-691C-4989-A22A-9F56FCF5F16A}|UserAppService\\UserService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\userappservice\\userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA03662E-691C-4989-A22A-9F56FCF5F16A}|UserAppService\\UserService.csproj|solutionrelative:userappservice\\userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\postappservice\\postservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|solutionrelative:postappservice\\postservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\postappservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|solutionrelative:postappservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA03662E-691C-4989-A22A-9F56FCF5F16A}|UserAppService\\UserService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\userappservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA03662E-691C-4989-A22A-9F56FCF5F16A}|UserAppService\\UserService.csproj|solutionrelative:userappservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA03662E-691C-4989-A22A-9F56FCF5F16A}|UserAppService\\UserService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\userappservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA03662E-691C-4989-A22A-9F56FCF5F16A}|UserAppService\\UserService.csproj|solutionrelative:userappservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|c:\\users\\hp\\source\\repos\\microservicesolution\\postappservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8E2EEAE-F485-49C3-AC4E-25F75B0D927C}|PostAppService\\PostService.csproj|solutionrelative:postappservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "PostAppService\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\Entities\\Post.cs",
+              "RelativeToolTip": "PostAppService\\Entities\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T03:06:57.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\Program.cs",
+              "RelativeDocumentMoniker": "PostAppService\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\Program.cs",
+              "RelativeToolTip": "PostAppService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T03:08:16.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\Startup.cs",
+              "RelativeDocumentMoniker": "PostAppService\\Startup.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\Startup.cs",
+              "RelativeToolTip": "PostAppService\\Startup.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwCYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:03:01.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitMqListenerService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\RabbitMqListenerService.cs",
+              "RelativeDocumentMoniker": "PostAppService\\RabbitMqListenerService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\RabbitMqListenerService.cs",
+              "RelativeToolTip": "PostAppService\\RabbitMqListenerService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwC8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:41:37.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserService.http",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\UserAppService\\UserService.http",
+              "RelativeDocumentMoniker": "UserAppService\\UserService.http",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\UserAppService\\UserService.http",
+              "RelativeToolTip": "UserAppService\\UserService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-21T15:12:42.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "PostAppService\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\Controllers\\PostController.cs",
+              "RelativeToolTip": "PostAppService\\Controllers\\PostController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T03:10:30.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "PostAppService\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\Entities\\User.cs",
+              "RelativeToolTip": "PostAppService\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T03:05:35.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\UserAppService\\Program.cs",
+              "RelativeDocumentMoniker": "UserAppService\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\UserAppService\\Program.cs",
+              "RelativeToolTip": "UserAppService\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:47:50.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PostAppService\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PostAppService\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T07:16:55.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IntegrationEventSenderService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\UserAppService\\IntegrationEventSenderService.cs",
+              "RelativeDocumentMoniker": "UserAppService\\IntegrationEventSenderService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\UserAppService\\IntegrationEventSenderService.cs",
+              "RelativeToolTip": "UserAppService\\IntegrationEventSenderService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:10:34.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostAppServiceContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\Data\\PostAppServiceContext.cs",
+              "RelativeDocumentMoniker": "PostAppService\\Data\\PostAppServiceContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\Data\\PostAppServiceContext.cs",
+              "RelativeToolTip": "PostAppService\\Data\\PostAppServiceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T03:07:55.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostService.http",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\PostService.http",
+              "RelativeDocumentMoniker": "PostAppService\\PostService.http",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\PostService.http",
+              "RelativeToolTip": "PostAppService\\PostService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-21T15:02:14.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\UserAppService\\Startup.cs",
+              "RelativeDocumentMoniker": "UserAppService\\Startup.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\UserAppService\\Startup.cs",
+              "RelativeToolTip": "UserAppService\\Startup.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwC8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:46:47.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\UserAppService\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UserAppService\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\UserAppService\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UserAppService\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAkwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:55:51.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IntegrationEvent.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\UserAppService\\Entities\\IntegrationEvent.cs",
+              "RelativeDocumentMoniker": "UserAppService\\Entities\\IntegrationEvent.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\UserAppService\\Entities\\IntegrationEvent.cs",
+              "RelativeToolTip": "UserAppService\\Entities\\IntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:16:19.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PostAppService\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PostAppService\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:49:26.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PostService.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\PostService.csproj",
+              "RelativeDocumentMoniker": "PostAppService\\PostService.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\PostService.csproj",
+              "RelativeToolTip": "PostAppService\\PostService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T03:52:10.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\UserAppService\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "UserAppService\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\UserAppService\\Entities\\User.cs",
+              "RelativeToolTip": "UserAppService\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:42:28.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserServiceContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\UserAppService\\Data\\UserServiceContext.cs",
+              "RelativeDocumentMoniker": "UserAppService\\Data\\UserServiceContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\UserAppService\\Data\\UserServiceContext.cs",
+              "RelativeToolTip": "UserAppService\\Data\\UserServiceContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:45:04.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserService.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\UserAppService\\UserService.csproj",
+              "RelativeDocumentMoniker": "UserAppService\\UserService.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\UserAppService\\UserService.csproj",
+              "RelativeToolTip": "UserAppService\\UserService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T11:42:32.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PostAppService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PostAppService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T04:05:44.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\UserAppService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserAppService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\UserAppService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserAppService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T04:06:19.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\UserAppService\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "UserAppService\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\UserAppService\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "UserAppService\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:34:19.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\appsettings.json",
+              "RelativeDocumentMoniker": "PostAppService\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\appsettings.json",
+              "RelativeToolTip": "PostAppService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T09:55:28.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PostService",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\PostService.csproj",
+              "RelativeDocumentMoniker": "PostAppService\\PostService.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MicroServiceSolution\\PostAppService\\PostService.csproj",
+              "RelativeToolTip": "PostAppService\\PostService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T04:07:42.544Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
